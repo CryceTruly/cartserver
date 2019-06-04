@@ -11,9 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chance": "^1.0.10",
-    "cors": "^2.8.3",
-    "express": "^4.15.3",
-    "yamljs": "^0.2.10"
+    "chance": "^1.0.18",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "yamljs": "^0.3.0"
   }
 }
